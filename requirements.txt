@@ -1,0 +1,5 @@
+#all libraries installation
+pandas
+numpy 
+seaborn
+-e .
